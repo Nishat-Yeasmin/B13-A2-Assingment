@@ -13,8 +13,7 @@
 }
 .navbar{
   display: flex;
-  /* gap: auto; */
-  width: 100%;
+  gap: auto;
  
 }
 .navbar .tech-logo{
@@ -30,8 +29,8 @@
   list-style: none;
   justify-content: center;
   align-items: center;
- margin-left: 433px;
- margin-right: 545px;
+ margin-left: 733px;
+ margin-right: 649px;
 
 }
 .nav-links{
@@ -48,7 +47,7 @@
   width: 135px;
   margin-top: 24px;
   margin-bottom: 24px;
-  margin-right: 210px;
+  margin-right: 200px;
   color: #ffffff;
   font-size: 16px;
   font-weight: 600;
@@ -473,7 +472,7 @@ footer{
 } */
  .footer-img{
   margin-top: 130px;
-  margin-left:900px;
+  margin-left: 850px;
  }
 .podcast-icon{
   display: flex;
