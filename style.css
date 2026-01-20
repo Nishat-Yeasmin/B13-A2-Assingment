@@ -14,6 +14,7 @@
 .navbar{
   display: flex;
   gap: auto;
+  width: 100%;
  
 }
 .navbar .tech-logo{
@@ -29,8 +30,8 @@
   list-style: none;
   justify-content: center;
   align-items: center;
- margin-left: 733px;
- margin-right: 649px;
+ margin-left: 2033px;
+ margin-right: 2049px;
 
 }
 .nav-links{
@@ -471,8 +472,12 @@ footer{
   padding: 295px;
 } */
  .footer-img{
-  margin-top: 130px;
-  margin-left: 850px;
+  padding-top: 130px;
+  padding-left: 2560px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
  }
 .podcast-icon{
   display: flex;
